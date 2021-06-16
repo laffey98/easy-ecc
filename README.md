@@ -1,8 +1,8 @@
 easy-ecc
 =====
 
-*A simple and secure ECDH and ECDSA library.
-*这个不是我写的，区块链课设用罢了
+* 这个不是我写的，区块链课程练习，fork过来用用罢了
+* A simple and secure ECDH and ECDSA library.
 
 Features
 --------
